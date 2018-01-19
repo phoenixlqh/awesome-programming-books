@@ -18,18 +18,43 @@ Github确实保存方便，利于协作和保存，服务器保存与分布保�
 *   《[计算机系统概论](https://www.amazon.cn/gp/product/B0011F9OQE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F9OQE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入理解Linux内核](https://www.amazon.cn/gp/product/B0011F5RYM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5RYM&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入Linux内核架构](https://www.amazon.cn/gp/product/B003QN7J7U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003QN7J7U&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux系统编程（第2版）](https://www.amazon.cn/gp/product/B00JUM2ML4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JUM2ML4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux内核设计与实现（第3版）](https://www.amazon.cn/gp/product/B004X3Z3D4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004X3Z3D4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入理解计算机系统（原书第2版）](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004BJ18KM&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[计算机程序的构造和解释（原书第2版）](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011AP7RY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/gp/product/B009RSXIB4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B009RSXIB4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[性能之颠：洞悉系统、企业与云计算](https://www.amazon.cn/gp/product/B0140I5WPK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0140I5WPK&amp;linkCode=as2&amp;tag=vastwork-23)》
+
+## C语言
+
+*   《[C标准库](https://www.amazon.cn/gp/product/B00IZW4DK8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IZW4DK8&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C和指针](https://www.amazon.cn/gp/product/B00163LU68/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00163LU68&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C专家编程](https://www.amazon.cn/gp/product/B0012NIW9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0012NIW9K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C陷阱与缺陷](https://www.amazon.cn/gp/product/B0012UMPBY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0012UMPBY&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C语言接口与实现](https://www.amazon.cn/gp/product/B01D10NSCM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01D10NSCM&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C程序设计语言（第2版）](https://www.amazon.cn/gp/product/B0011425T8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011425T8&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《C语言参考手册（第5版）》
+
+## C++
+
+*   《[C++标准库](https://www.amazon.cn/gp/product/B00YLZIRHI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00YLZIRHI&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C++编程思想](https://www.amazon.cn/gp/product/B005CFUQR0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B005CFUQR0&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   <span style="font-weight: normal;">《</span>C++语言的设计与演化<span style="font-weight: normal;">》</span>
+*   《[C++程序设计原理与实践](https://www.amazon.cn/gp/product/B003VPX6YS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003VPX6YS&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C++ Primer （中文第5版）](https://www.amazon.cn/gp/product/B00ESUIL0O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ESUIL0O&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C++ Primer习题集(第5版)](https://www.amazon.cn/gp/product/B00S6U4C6E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00S6U4C6E&amp;linkCode=as2&amp;tag=vastwork-23) 》
+*   《[C++程序设计语言(第1-3部分)(原书第4版)](https://www.amazon.cn/gp/product/B01I9BNASA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01I9BNASA&amp;linkCode=as2&amp;tag=vastwork-23) 》
+*   《[Effective C++:改善程序与设计的55个具体做法(第3版)(中文版) ](https://www.amazon.cn/gp/product/B004G72P24/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004G72P24&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[More Effective C++:35个改善编程与设计的有效方法(中文版) ](https://www.amazon.cn/gp/product/B004IP8BD6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004IP8BD6&amp;linkCode=as2&amp;tag=vastwork-23)》
+&nbsp;
+
+## 网络
 *   《[UNIX网络编程 卷1：套接字联网API（第3版）](https://www.amazon.cn/gp/product/B011S72JB6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B011S72JB6&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[UNIX网络编程 卷2：进程间通信](https://www.amazon.cn/gp/product/B012R5A29O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B012R5A29O&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Windows核心编程(第5版)](https://www.amazon.cn/gp/product/B001GS7918/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001GS7918&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[WireShark网络分析就这么简单](https://www.amazon.cn/gp/product/B00PB5QQ84/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00PB5QQ84&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[WireShark网络分析的艺术](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01AS1OS8A&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
 
 ## 编程通用
 
@@ -171,29 +196,6 @@ Github确实保存方便，利于协作和保存，服务器保存与分布保�
 
 *   《[Head First PHP &amp; MySQL（中文版）](https://www.amazon.cn/gp/product/B004R1QIJU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004R1QIJU&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入PHP：面向对象、模式与实践（第3版）](https://www.amazon.cn/gp/product/B005D6IRRY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B005D6IRRY&amp;linkCode=as2&amp;tag=vastwork-23)》
-
-## C语言
-
-*   《[C标准库](https://www.amazon.cn/gp/product/B00IZW4DK8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IZW4DK8&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C和指针](https://www.amazon.cn/gp/product/B00163LU68/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00163LU68&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C专家编程](https://www.amazon.cn/gp/product/B0012NIW9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0012NIW9K&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C陷阱与缺陷](https://www.amazon.cn/gp/product/B0012UMPBY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0012UMPBY&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C语言接口与实现](https://www.amazon.cn/gp/product/B01D10NSCM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01D10NSCM&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C程序设计语言（第2版）](https://www.amazon.cn/gp/product/B0011425T8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011425T8&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《C语言参考手册（第5版）》
-
-## C++
-
-*   《[C++标准库](https://www.amazon.cn/gp/product/B00YLZIRHI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00YLZIRHI&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C++编程思想](https://www.amazon.cn/gp/product/B005CFUQR0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B005CFUQR0&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   <span style="font-weight: normal;">《</span>C++语言的设计与演化<span style="font-weight: normal;">》</span>
-*   《[C++程序设计原理与实践](https://www.amazon.cn/gp/product/B003VPX6YS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003VPX6YS&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C++ Primer （中文第5版）](https://www.amazon.cn/gp/product/B00ESUIL0O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ESUIL0O&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[C++ Primer习题集(第5版)](https://www.amazon.cn/gp/product/B00S6U4C6E/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00S6U4C6E&amp;linkCode=as2&amp;tag=vastwork-23) 》
-*   《[C++程序设计语言(第1-3部分)(原书第4版)](https://www.amazon.cn/gp/product/B01I9BNASA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01I9BNASA&amp;linkCode=as2&amp;tag=vastwork-23) 》
-*   《[Effective C++:改善程序与设计的55个具体做法(第3版)(中文版) ](https://www.amazon.cn/gp/product/B004G72P24/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004G72P24&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[More Effective C++:35个改善编程与设计的有效方法(中文版) ](https://www.amazon.cn/gp/product/B004IP8BD6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004IP8BD6&amp;linkCode=as2&amp;tag=vastwork-23)》
-&nbsp;
 
 ## 机器学习和数据挖掘
 
