@@ -24,6 +24,12 @@ Github确实保存方便，利于协作和保存，服务器保存与分布保�
 *   《[计算机程序的构造和解释（原书第2版）](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011AP7RY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/gp/product/B009RSXIB4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B009RSXIB4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[性能之颠：洞悉系统、企业与云计算](https://www.amazon.cn/gp/product/B0140I5WPK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0140I5WPK&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[[30天自制操作系统]]》
+*   《[WINDOWS内核原理与实现]》
+
+## 汇编
+
+*   《[汇编语言]王爽》
 
 ## C语言
 
@@ -55,6 +61,7 @@ Github确实保存方便，利于协作和保存，服务器保存与分布保�
 *   《[WireShark网络分析就这么简单](https://www.amazon.cn/gp/product/B00PB5QQ84/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00PB5QQ84&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[WireShark网络分析的艺术](https://www.amazon.cn/gp/product/B01AS1OS8A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01AS1OS8A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[追踪Linux.TCP／IP代码运行：基于2.6内核]》
 
 ## 编程通用
 
