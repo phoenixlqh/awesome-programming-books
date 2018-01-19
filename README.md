@@ -11,6 +11,9 @@
 Github确实保存方便，利于协作和保存，服务器保存与分布保存兼顾，但对于我这样的人来说，仍然希望能够方便的本地保存，防止丢失。
 
 书单后面有必要注明，是否已拥有电子版本，哪种格式，能找到多种格式更好。
+## 未分类
+
+*   《[加密与解密]》
 
 ## 计算机系统
 
@@ -26,10 +29,12 @@ Github确实保存方便，利于协作和保存，服务器保存与分布保�
 *   《[性能之颠：洞悉系统、企业与云计算](https://www.amazon.cn/gp/product/B0140I5WPK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0140I5WPK&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[[30天自制操作系统]]》
 *   《[WINDOWS内核原理与实现]》
+*   《[天书夜读]》
 
 ## 汇编
 
 *   《[汇编语言]王爽》
+*   《[Assembly language for x86 processors  Kip R. Irvine. 6th ed]》
 
 ## C语言
 
